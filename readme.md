@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Brandon Morales</h1>
 <h3 align="center">A Tech Enthusiast from New York</h3>
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/BAMOEQ/Portfolio)
+-  I’m currently working on [Algoviz]([(http://github.com/BAMOEQ/algoviz))
 
-- 🌱 I’m currently learning **SSH, Python, Linux**
+-  I’m currently learning **Network**
 
-- 👯 I’m looking to collaborate on **App development**
+-  I’m looking to collaborate on **App development**
 
-- 🤝 I’m looking for help with **Cybersecurity**
+- I’m looking for help with **Networking**
 
-- 💬 Ask me about **Algorithms**
+- Ask me about **Algorithms**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
