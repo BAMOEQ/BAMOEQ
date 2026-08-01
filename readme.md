@@ -3,7 +3,7 @@
 
 -  I’m currently working on [Algoviz]([(http://github.com/BAMOEQ/algoviz))
 
--  I’m currently learning **Network**
+-  I’m currently learning **NextJS**
 
 -  I’m looking to collaborate on **App development**
 
